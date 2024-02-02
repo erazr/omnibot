@@ -16,6 +16,8 @@
 
 # Usage
 
+Create .env at root directory and write your discord token to TOKEN
+
 ```
 go run cmd/main.go
 ```
